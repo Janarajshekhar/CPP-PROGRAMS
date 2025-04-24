@@ -8,4 +8,4 @@ int main()
     b=a*a;
     cout<<"square of "<<a<<" is "<<b;
     return 0;
-} 
+}  
